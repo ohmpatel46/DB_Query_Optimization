@@ -1,0 +1,15 @@
+
+# Ignore unnecessary dataset files
+Dataset/olist_geolocation_dataset.csv
+Dataset/olist_order_payments_dataset.csv
+Dataset/olist_order_reviews_dataset.csv
+Dataset/olist_sellers_dataset.csv
+Dataset/product_category_name_translation.csv
+
+# General ignores (if not already added)
+*.log
+*.tmp
+__pycache__/
+*.pyc
+.DS_Store
+.env
